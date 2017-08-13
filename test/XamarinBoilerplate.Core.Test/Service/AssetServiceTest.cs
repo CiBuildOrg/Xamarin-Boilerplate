@@ -1,7 +1,7 @@
 ﻿using XamarinBoilerplate.Core.Services;
 using Xunit;
 
-namespace MobileTemplate.Core.Test.Service
+namespace XamarinBoilerplate.Core.Test.Service
 {
     public abstract class AssetServiceTest
     {

@@ -1,7 +1,7 @@
 using Xamarin.Forms;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Droid.Service
+namespace XamarinBoilerplate.Droid.Service
 {
     public class SampleServiceDroid : SampleService
     {

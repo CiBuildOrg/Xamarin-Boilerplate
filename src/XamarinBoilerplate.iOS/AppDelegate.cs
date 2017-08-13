@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Autofac;
+﻿using Autofac;
 using Foundation;
 using HockeyApp.iOS;
 using UIKit;
 using XamarinBoilerplate.Core;
 
-namespace MobileTemplate.iOS
+namespace XamarinBoilerplate.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 

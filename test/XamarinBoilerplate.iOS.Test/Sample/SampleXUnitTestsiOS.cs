@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace MobileTemplate.iOS.Test.Sample
+namespace XamarinBoilerplate.iOS.Test.Sample
 {
     public class SampleXunitTests
     {

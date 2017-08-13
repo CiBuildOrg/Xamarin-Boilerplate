@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MobileTemplate.Droid {
+namespace XamarinBoilerplate.Droid {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace MobileTemplate.Droid {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MobileTemplate.Droid.MagicStringsDroid", typeof(MagicStringsDroid).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("XamarinBoilerplate.Droid.MagicStringsDroid", typeof(MagicStringsDroid).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

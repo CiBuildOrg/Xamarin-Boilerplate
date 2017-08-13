@@ -3,7 +3,7 @@ using XamarinBoilerplate.Core.Model.Shopping;
 using XamarinBoilerplate.Core.Services.Shopping;
 using Xunit;
 
-namespace MobileTemplate.Core.Test.Service
+namespace XamarinBoilerplate.Core.Test.Service
 {
     public class ShoppingCartServiceTest
     {

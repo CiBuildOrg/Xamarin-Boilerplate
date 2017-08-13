@@ -1,11 +1,11 @@
 ﻿using System.Reflection;
 using Foundation;
-using MobileTemplate.Core.Test;
+using XamarinBoilerplate.Core.Test;
 using UIKit;
 using Xunit.Runner;
 using Xunit.Sdk;
 
-namespace MobileTemplate.iOS.Test
+namespace XamarinBoilerplate.iOS.Test
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 

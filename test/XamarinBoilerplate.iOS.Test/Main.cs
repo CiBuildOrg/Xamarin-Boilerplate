@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace MobileTemplate.iOS.Test
+namespace XamarinBoilerplate.iOS.Test
 {
     public class Application
     {

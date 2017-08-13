@@ -1,8 +1,8 @@
-using MobileTemplate.Core.Test.Service;
-using MobileTemplate.iOS.Service;
+using XamarinBoilerplate.Core.Test.Service;
+using XamarinBoilerplate.iOS.Service;
 using Xunit;
 
-namespace MobileTemplate.iOS.Test.Service
+namespace XamarinBoilerplate.iOS.Test.Service
 {
     public class AssetServiceiOSTest : AssetServiceTest
     {

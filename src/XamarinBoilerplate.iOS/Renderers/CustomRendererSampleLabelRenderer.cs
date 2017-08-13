@@ -1,11 +1,10 @@
-using MobileTemplate.iOS.Renderers;
-using UIKit;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 using XamarinBoilerplate.Core.Controls;
+using XamarinBoilerplate.iOS.Renderers;
 
 [assembly: ExportRenderer(typeof(CustomRendererSampleLabel), typeof(CustomRendererSampleLabelRenderer))]
-namespace MobileTemplate.iOS.Renderers
+namespace XamarinBoilerplate.iOS.Renderers
 {
     public class CustomRendererSampleLabelRenderer : LabelRenderer
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MobileTemplate.iOS {
+namespace XamarinBoilerplate.iOS {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace MobileTemplate.iOS {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MobileTemplate.iOS.MagicStringsiOS", typeof(MagicStringsiOS).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("XamarinBoilerplate.iOS.MagicStringsiOS", typeof(MagicStringsiOS).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

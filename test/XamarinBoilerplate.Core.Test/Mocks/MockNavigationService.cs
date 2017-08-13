@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Test.Mocks
+namespace XamarinBoilerplate.Core.Test.Mocks
 {
     public class MockNavigationService : INavigationService
     {

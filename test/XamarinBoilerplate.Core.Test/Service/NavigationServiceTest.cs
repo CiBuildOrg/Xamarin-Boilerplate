@@ -1,11 +1,11 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
-using MobileTemplate.Core.Test.Mocks;
+using XamarinBoilerplate.Core.Test.Mocks;
 using Xamarin.Forms;
 using XamarinBoilerplate.Core.Services;
 using Xunit;
 
-namespace MobileTemplate.Core.Test.Service
+namespace XamarinBoilerplate.Core.Test.Service
 {
     public class NavigationServiceTest
     {

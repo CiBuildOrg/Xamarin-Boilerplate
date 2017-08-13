@@ -1,9 +1,8 @@
-using System;
 using System.IO;
 using Foundation;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.iOS.Service
+namespace XamarinBoilerplate.iOS.Service
 {
     public class AssetServiceiOS : AssetService
     {

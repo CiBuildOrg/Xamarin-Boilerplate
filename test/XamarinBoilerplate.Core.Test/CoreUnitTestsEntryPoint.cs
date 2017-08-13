@@ -1,4 +1,4 @@
-﻿namespace MobileTemplate.Core.Test
+﻿namespace XamarinBoilerplate.Core.Test
 {
     public static class CoreUnitTestsEntryPoint
     {

@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using MobileTemplate.Droid.Service;
+using XamarinBoilerplate.Droid.Service;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Droid
+namespace XamarinBoilerplate.Droid
 {
     public static class IoCDroid
     {

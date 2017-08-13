@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using MobileTemplate.iOS.Service;
 using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.iOS.Service;
 
-namespace MobileTemplate.iOS
+namespace XamarinBoilerplate.iOS
 {
     public static class IoCiOS
     {

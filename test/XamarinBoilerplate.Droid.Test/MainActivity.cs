@@ -1,13 +1,13 @@
 ﻿using System.Reflection;
 using Android.App;
 using Android.OS;
-using MobileTemplate.Core.Test;
+using XamarinBoilerplate.Core.Test;
 using Xunit.Runners.UI;
 using Xunit.Sdk;
 
-namespace MobileTemplate.Droid.Test
+namespace XamarinBoilerplate.Droid.Test
 {
-    [Activity(Label = "MobileTemplate.Droid.Test", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "XamarinBoilerplate.Droid.Test", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : RunnerActivity
     {
         protected override void OnCreate(Bundle bundle)

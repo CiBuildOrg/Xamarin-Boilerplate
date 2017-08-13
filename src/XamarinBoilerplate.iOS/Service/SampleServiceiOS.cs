@@ -1,7 +1,7 @@
 using Xamarin.Forms;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.iOS.Service
+namespace XamarinBoilerplate.iOS.Service
 {
     public class SampleServiceiOS : SampleService
     {

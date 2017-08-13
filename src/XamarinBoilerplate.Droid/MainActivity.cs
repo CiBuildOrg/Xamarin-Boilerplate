@@ -7,7 +7,7 @@ using HockeyApp.Android;
 using XamarinBoilerplate.Core;
 using CrashManager = HockeyApp.Android.CrashManager;
 
-namespace MobileTemplate.Droid
+namespace XamarinBoilerplate.Droid
 {
     [Activity(Label = "MobileTemplate", Icon = "@drawable/Icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

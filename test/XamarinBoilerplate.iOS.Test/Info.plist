@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>MobileTemplate.iOS.Test</string>
+	<string>XamarinBoilerplate.iOS.Test</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.nowintelligence.template.test</string>
 	<key>CFBundleShortVersionString</key>

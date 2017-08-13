@@ -2,7 +2,7 @@ using System.IO;
 using Android.App;
 using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Droid.Service
+namespace XamarinBoilerplate.Droid.Service
 {
     public class AssetServiceDroid : AssetService
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using XamarinBoilerplate.Core.Pages.ReactiveSample;
 using Xunit;
 
-namespace MobileTemplate.Core.Test.ViewModel.ReactiveSample
+namespace XamarinBoilerplate.Core.Test.ViewModel.ReactiveSample
 {
     public class ReactiveSampleViewModelTest
     {
