@@ -101,6 +101,7 @@
     <Compile Include="Service\AssetServiceiOS.cs" />
     <Compile Include="Service\SampleServiceiOS.cs" />
     <ITunesArtwork Include="iTunesArtwork%402x" />
+    <None Include="app.config" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist">
       <SubType>Designer</SubType>

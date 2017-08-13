@@ -127,6 +127,7 @@
     <Compile Include="ViewModel\ReactiveSample\ReactiveSampleViewModelTest.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

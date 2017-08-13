@@ -94,6 +94,7 @@
     <Compile Include="Sample\SampleXUnitTestsiOS.cs" />
     <BundleResource Include="Resources\Text\asset_sample_text_file.txt" />
     <Compile Include="Service\AssetServiceiOSTest.cs" />
+    <None Include="app.config" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="Entitlements.plist" />
