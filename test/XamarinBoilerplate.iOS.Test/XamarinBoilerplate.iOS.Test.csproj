@@ -158,15 +158,15 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XamarinBoilerplate.Core.Test\MobileTemplate.Core.Test.csproj">
+    <ProjectReference Include="..\XamarinBoilerplate.Core.Test\XamarinBoilerplate.Core.Test.csproj">
       <Project>{eb9fb050-491f-4bcf-81bc-3b7615286eba}</Project>
       <Name>MobileTemplate.Core.Test</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\XamarinBoilerplate.Core\MobileTemplate.Core.csproj">
+    <ProjectReference Include="..\..\src\XamarinBoilerplate.Core\XamarinBoilerplate.Core.csproj">
       <Project>{a7439e6b-2866-48f4-a696-85cc20a99f9e}</Project>
       <Name>MobileTemplate.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\XamarinBoilerplate.iOS\MobileTemplate.iOS.csproj">
+    <ProjectReference Include="..\..\src\XamarinBoilerplate.iOS\XamarinBoilerplate.iOS.csproj">
       <Project>{388060d8-cfa7-49c4-8dab-faa853603f7c}</Project>
       <Name>MobileTemplate.iOS</Name>
       <IsAppExtension>false</IsAppExtension>

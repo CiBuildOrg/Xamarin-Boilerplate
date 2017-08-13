@@ -130,7 +130,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\XamarinBoilerplate.Core\MobileTemplate.Core.csproj">
+    <ProjectReference Include="..\..\src\XamarinBoilerplate.Core\XamarinBoilerplate.Core.csproj">
       <Project>{a7439e6b-2866-48f4-a696-85cc20a99f9e}</Project>
       <Name>MobileTemplate.Core</Name>
     </ProjectReference>
