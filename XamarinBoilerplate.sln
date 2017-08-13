@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.Core", "src\MobileTemplate.Core\MobileTemplate.Core.csproj", "{A7439E6B-2866-48F4-A696-85CC20A99F9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.Core", "src\XamarinBoilerplate.Core\MobileTemplate.Core.csproj", "{A7439E6B-2866-48F4-A696-85CC20A99F9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.Droid", "src\MobileTemplate.Droid\MobileTemplate.Droid.csproj", "{0C5CF1B3-1F8E-4EDD-AF0C-5D9DB6497A94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.Droid", "src\XamarinBoilerplate.Droid\MobileTemplate.Droid.csproj", "{0C5CF1B3-1F8E-4EDD-AF0C-5D9DB6497A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.iOS", "src\MobileTemplate.iOS\MobileTemplate.iOS.csproj", "{388060D8-CFA7-49C4-8DAB-FAA853603F7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.iOS", "src\XamarinBoilerplate.iOS\MobileTemplate.iOS.csproj", "{388060D8-CFA7-49C4-8DAB-FAA853603F7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTemplate.iOS.Test", "test\MobileTemplate.iOS.Test\MobileTemplate.iOS.Test.csproj", "{390D0A01-D55A-42EA-8513-A19C78AC524E}"
 EndProject

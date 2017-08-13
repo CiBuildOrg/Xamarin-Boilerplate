@@ -185,7 +185,7 @@
     <AndroidResource Include="Resources\values\styles.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MobileTemplate.Core\MobileTemplate.Core.csproj">
+    <ProjectReference Include="..\XamarinBoilerplate.Core\MobileTemplate.Core.csproj">
       <Project>{a7439e6b-2866-48f4-a696-85cc20a99f9e}</Project>
       <Name>MobileTemplate.Core</Name>
     </ProjectReference>
