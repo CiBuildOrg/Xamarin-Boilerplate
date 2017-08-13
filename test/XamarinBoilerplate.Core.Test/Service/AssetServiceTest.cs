@@ -1,4 +1,4 @@
-﻿using MobileTemplate.Core.Services;
+﻿using XamarinBoilerplate.Core.Services;
 using Xunit;
 
 namespace MobileTemplate.Core.Test.Service

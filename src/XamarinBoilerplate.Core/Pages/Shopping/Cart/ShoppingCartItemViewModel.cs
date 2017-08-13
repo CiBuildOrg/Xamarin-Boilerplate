@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Reactive.Linq;
-using MobileTemplate.Core.Model.Shopping;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Shopping;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping.Cart
+namespace XamarinBoilerplate.Core.Pages.Shopping.Cart
 {
     public class ShoppingCartItemViewModel : ShoppingItemViewModel
     {

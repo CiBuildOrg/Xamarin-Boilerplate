@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.Landing
+namespace XamarinBoilerplate.Core.Pages.Landing
 {
     public class LandingPageViewModel
     {

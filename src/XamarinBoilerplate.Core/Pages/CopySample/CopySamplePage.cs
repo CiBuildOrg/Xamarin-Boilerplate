@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.CopySample
+namespace XamarinBoilerplate.Core.Pages.CopySample
 {
     public class CopySamplePage : ContentPage, IDisposable
     {

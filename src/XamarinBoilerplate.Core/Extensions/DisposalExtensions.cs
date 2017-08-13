@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Extensions
+namespace XamarinBoilerplate.Core.Extensions
 {
     public static class DisposalExtensions
     {

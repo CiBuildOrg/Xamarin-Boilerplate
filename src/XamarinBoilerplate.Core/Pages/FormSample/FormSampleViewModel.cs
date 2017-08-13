@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
 using System.Text;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.FormSample
+namespace XamarinBoilerplate.Core.Pages.FormSample
 {
     public class FormSampleViewModel : IDisposable
     {

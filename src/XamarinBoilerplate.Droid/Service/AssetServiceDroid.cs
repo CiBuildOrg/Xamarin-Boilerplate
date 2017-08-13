@@ -1,6 +1,6 @@
 using System.IO;
 using Android.App;
-using MobileTemplate.Core.Services;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.Droid.Service
 {

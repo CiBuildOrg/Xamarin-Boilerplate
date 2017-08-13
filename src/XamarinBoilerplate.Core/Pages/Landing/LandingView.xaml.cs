@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Services;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.Landing
+namespace XamarinBoilerplate.Core.Pages.Landing
 {
     public partial class LandingView : ScrollView, IDisposable
     {

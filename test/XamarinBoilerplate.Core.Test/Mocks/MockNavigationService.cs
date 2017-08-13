@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using MobileTemplate.Core.Services;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.Core.Test.Mocks
 {

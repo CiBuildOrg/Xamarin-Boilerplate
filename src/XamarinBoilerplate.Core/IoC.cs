@@ -1,8 +1,8 @@
 ﻿using Autofac;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core
+namespace XamarinBoilerplate.Core
 {
     public static class IoC
     {

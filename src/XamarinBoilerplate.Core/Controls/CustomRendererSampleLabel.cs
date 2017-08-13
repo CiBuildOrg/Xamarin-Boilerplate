@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Controls
+namespace XamarinBoilerplate.Core.Controls
 {
     public class CustomRendererSampleLabel : Label
     {

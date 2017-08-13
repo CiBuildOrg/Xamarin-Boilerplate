@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MobileTemplate.Core.Model.Shopping
+namespace XamarinBoilerplate.Core.Model.Shopping
 {
     public class ShoppingItemModel
     {

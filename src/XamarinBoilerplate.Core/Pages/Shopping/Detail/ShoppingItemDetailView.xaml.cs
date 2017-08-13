@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.Shopping.Detail
+namespace XamarinBoilerplate.Core.Pages.Shopping.Detail
 {
     public partial class ShoppingItemDetailView : StackLayout, IDisposable
     {

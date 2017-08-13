@@ -1,19 +1,19 @@
 ﻿using System.Collections.Generic;
-using MobileTemplate.Core.Model.Menu;
-using MobileTemplate.Core.Pages.AssetSample;
-using MobileTemplate.Core.Pages.CopySample;
-using MobileTemplate.Core.Pages.FormSample;
-using MobileTemplate.Core.Pages.Landing;
-using MobileTemplate.Core.Pages.ReactiveSample;
-using MobileTemplate.Core.Pages.RendererSample;
-using MobileTemplate.Core.Pages.ServiceSample;
-using MobileTemplate.Core.Pages.Shopping.Cart;
-using MobileTemplate.Core.Pages.Shopping.Grid;
-using MobileTemplate.Core.Pages.Shopping.List;
-using MobileTemplate.Core.Pages.ThemeSample;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Menu;
+using XamarinBoilerplate.Core.Pages.AssetSample;
+using XamarinBoilerplate.Core.Pages.CopySample;
+using XamarinBoilerplate.Core.Pages.FormSample;
+using XamarinBoilerplate.Core.Pages.Landing;
+using XamarinBoilerplate.Core.Pages.ReactiveSample;
+using XamarinBoilerplate.Core.Pages.RendererSample;
+using XamarinBoilerplate.Core.Pages.ServiceSample;
+using XamarinBoilerplate.Core.Pages.Shopping.Cart;
+using XamarinBoilerplate.Core.Pages.Shopping.Grid;
+using XamarinBoilerplate.Core.Pages.Shopping.List;
+using XamarinBoilerplate.Core.Pages.ThemeSample;
 
-namespace MobileTemplate.Core.Services
+namespace XamarinBoilerplate.Core.Services
 {
     public interface IMenuItemService
     {

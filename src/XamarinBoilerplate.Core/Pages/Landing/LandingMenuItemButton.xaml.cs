@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Pages.Landing
+namespace XamarinBoilerplate.Core.Pages.Landing
 {
     public partial class LandingMenuItemButton : Button
     {

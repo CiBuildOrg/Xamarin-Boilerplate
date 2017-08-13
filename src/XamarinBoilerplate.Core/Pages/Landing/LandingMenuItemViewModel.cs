@@ -1,9 +1,9 @@
 ﻿using System;
-using MobileTemplate.Core.Model.Menu;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Menu;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.Landing
+namespace XamarinBoilerplate.Core.Pages.Landing
 {
     public class LandingMenuItemViewModel : IDisposable
     {

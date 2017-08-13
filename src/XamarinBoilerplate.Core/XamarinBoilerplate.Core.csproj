@@ -8,8 +8,8 @@
     <ProjectGuid>{A7439E6B-2866-48F4-A696-85CC20A99F9E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MobileTemplate.Core</RootNamespace>
-    <AssemblyName>MobileTemplate.Core</AssemblyName>
+    <RootNamespace>XamarinBoilerplate.Core</RootNamespace>
+    <AssemblyName>XamarinBoilerplate.Core</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile7</TargetFrameworkProfile>

@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.AssetSample
+namespace XamarinBoilerplate.Core.Pages.AssetSample
 {
     public class AssetSamplePage : ContentPage, IDisposable
     {

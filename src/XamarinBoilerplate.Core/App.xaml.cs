@@ -1,7 +1,7 @@
-﻿using MobileTemplate.Core.Pages.Menu;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
+using XamarinBoilerplate.Core.Pages.Menu;
 
-namespace MobileTemplate.Core
+namespace XamarinBoilerplate.Core
 {
     public partial class App : Application
     {

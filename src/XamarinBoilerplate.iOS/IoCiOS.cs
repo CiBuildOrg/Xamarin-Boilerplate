@@ -1,6 +1,6 @@
 ﻿using Autofac;
-using MobileTemplate.Core.Services;
 using MobileTemplate.iOS.Service;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.iOS
 {

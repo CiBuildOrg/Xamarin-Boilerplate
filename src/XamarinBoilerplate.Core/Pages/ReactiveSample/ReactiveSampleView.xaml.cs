@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.ReactiveSample
+namespace XamarinBoilerplate.Core.Pages.ReactiveSample
 {
     public partial class ReactiveSampleView : ScrollView, IDisposable
     {

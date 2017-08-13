@@ -1,7 +1,7 @@
-using MobileTemplate.Core.Controls;
 using MobileTemplate.Droid.Renderers;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
+using XamarinBoilerplate.Core.Controls;
 using Color = Android.Graphics.Color;
 
 [assembly: ExportRenderer(typeof(CustomRendererSampleLabel), typeof(CustomRendererSampleLabelRenderer))]

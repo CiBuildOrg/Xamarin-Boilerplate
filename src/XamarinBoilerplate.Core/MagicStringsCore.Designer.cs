@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MobileTemplate.Core {
+namespace XamarinBoilerplate.Core {
     using System;
     using System.Reflection;
     
@@ -40,7 +40,7 @@ namespace MobileTemplate.Core {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MobileTemplate.Core.MagicStringsCore", typeof(MagicStringsCore).GetTypeInfo().Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("XamarinBoilerplate.Core.MagicStringsCore", typeof(MagicStringsCore).GetTypeInfo().Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

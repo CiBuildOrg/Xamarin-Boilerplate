@@ -1,8 +1,8 @@
-using MobileTemplate.Core.Controls;
 using MobileTemplate.iOS.Renderers;
 using UIKit;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
+using XamarinBoilerplate.Core.Controls;
 
 [assembly: ExportRenderer(typeof(CustomRendererSampleLabel), typeof(CustomRendererSampleLabelRenderer))]
 namespace MobileTemplate.iOS.Renderers

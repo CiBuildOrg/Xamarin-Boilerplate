@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 using Foundation;
-using MobileTemplate.Core.Services;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.iOS.Service
 {

@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.Menu
+namespace XamarinBoilerplate.Core.Pages.Menu
 {
     public class MainMenuViewModel : IDisposable
     {

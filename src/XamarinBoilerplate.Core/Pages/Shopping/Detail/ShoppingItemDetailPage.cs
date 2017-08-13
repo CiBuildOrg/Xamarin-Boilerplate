@@ -1,12 +1,12 @@
 ﻿using System;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Model.Shopping;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Model.Shopping;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping.Detail
+namespace XamarinBoilerplate.Core.Pages.Shopping.Detail
 {
     public class ShoppingItemDetailPage : ContentPage, IDisposable
     {

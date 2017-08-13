@@ -2,7 +2,7 @@
 <ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
                     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                     xmlns:themes="clr-namespace:Xamarin.Forms.Themes;assembly=Xamarin.Forms.Theme.Base"
-                    x:Class="MobileTemplate.Core.Themes.NbiThemeResources">
+                    x:Class="XamarinBoilerplate.Core.Themes.NbiThemeResources">
   <!-- Color Constants-->
   <Color x:Key="NbiWhite">#FFFFFF</Color>
   <Color x:Key="NbiGrey">#57585B</Color>

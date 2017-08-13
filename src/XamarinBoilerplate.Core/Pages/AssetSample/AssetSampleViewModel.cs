@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.AssetSample
+namespace XamarinBoilerplate.Core.Pages.AssetSample
 {
     public class AssetSampleViewModel : IDisposable
     {

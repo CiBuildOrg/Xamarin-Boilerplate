@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.ThemeSample
+namespace XamarinBoilerplate.Core.Pages.ThemeSample
 {
     public class CustomThemeSamplePage : ContentPage, IDisposable
     {

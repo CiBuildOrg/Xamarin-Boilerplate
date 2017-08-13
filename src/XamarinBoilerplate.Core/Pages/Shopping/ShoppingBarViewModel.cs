@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Reactive.Linq;
-using MobileTemplate.Core.Pages.Shopping.Cart;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Pages.Shopping.Cart;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping
+namespace XamarinBoilerplate.Core.Pages.Shopping
 {
     public class ShoppingBarViewModel : IDisposable
     {

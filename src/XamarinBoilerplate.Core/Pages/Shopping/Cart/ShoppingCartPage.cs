@@ -1,12 +1,11 @@
 ﻿using System;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Pages.Shopping.List;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping.Cart
+namespace XamarinBoilerplate.Core.Pages.Shopping.Cart
 {
     public class ShoppingCartPage : ContentPage, IDisposable
     {

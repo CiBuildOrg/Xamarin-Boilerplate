@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Pages
+namespace XamarinBoilerplate.Core.Pages
 {
     public partial class NotYetImplementedPage : ContentPage
     {

@@ -4,8 +4,7 @@ using Android.OS;
 using Autofac;
 using HockeyApp;
 using HockeyApp.Android;
-using MobileTemplate.Core;
-using MobileTemplate.Core.Themes;
+using XamarinBoilerplate.Core;
 using CrashManager = HockeyApp.Android.CrashManager;
 
 namespace MobileTemplate.Droid

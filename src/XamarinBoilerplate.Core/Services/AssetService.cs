@@ -1,4 +1,4 @@
-﻿namespace MobileTemplate.Core.Services
+﻿namespace XamarinBoilerplate.Core.Services
 {
     public interface IAssetService
     {

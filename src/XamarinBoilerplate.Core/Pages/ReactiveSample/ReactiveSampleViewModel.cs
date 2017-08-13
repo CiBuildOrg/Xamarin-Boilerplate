@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Linq;
-using System.Reactive.Concurrency;
 using System.Reactive.Linq;
 using Reactive.Bindings;
 
-namespace MobileTemplate.Core.Pages.ReactiveSample
+namespace XamarinBoilerplate.Core.Pages.ReactiveSample
 {
     public class ReactiveSampleViewModel : IDisposable
     {

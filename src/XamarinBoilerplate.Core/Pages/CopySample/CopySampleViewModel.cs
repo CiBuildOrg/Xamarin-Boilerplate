@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MobileTemplate.Core.Pages.CopySample
+namespace XamarinBoilerplate.Core.Pages.CopySample
 {
     public class CopySampleViewModel : IDisposable
     {

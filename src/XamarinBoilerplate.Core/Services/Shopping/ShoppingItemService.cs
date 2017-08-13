@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using MobileTemplate.Core.Model.Shopping;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Shopping;
 
-namespace MobileTemplate.Core.Services.Shopping
+namespace XamarinBoilerplate.Core.Services.Shopping
 {
     public interface IShoppingItemService
     {

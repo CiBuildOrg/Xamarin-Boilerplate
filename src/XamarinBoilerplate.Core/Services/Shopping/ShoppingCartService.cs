@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
-using MobileTemplate.Core.Model.Shopping;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Shopping;
 
-namespace MobileTemplate.Core.Services.Shopping
+namespace XamarinBoilerplate.Core.Services.Shopping
 {
     public interface IShoppingCartService
     {

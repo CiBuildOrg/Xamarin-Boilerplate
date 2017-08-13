@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Themes
+namespace XamarinBoilerplate.Core.Themes
 {
     public partial class CustomThemeResources : ResourceDictionary
     {

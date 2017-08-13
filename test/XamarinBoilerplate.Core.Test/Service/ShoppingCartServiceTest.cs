@@ -1,6 +1,6 @@
 ﻿using System;
-using MobileTemplate.Core.Model.Shopping;
-using MobileTemplate.Core.Services.Shopping;
+using XamarinBoilerplate.Core.Model.Shopping;
+using XamarinBoilerplate.Core.Services.Shopping;
 using Xunit;
 
 namespace MobileTemplate.Core.Test.Service

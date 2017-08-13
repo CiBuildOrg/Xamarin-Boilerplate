@@ -2,7 +2,7 @@
 using Reactive.Bindings;
 using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Model.Menu
+namespace XamarinBoilerplate.Core.Model.Menu
 {
     public class MenuItemModel : IDisposable
     {

@@ -1,6 +1,6 @@
 ﻿using Autofac;
-using MobileTemplate.Core.Services;
 using MobileTemplate.Droid.Service;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.Droid
 {

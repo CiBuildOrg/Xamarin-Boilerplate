@@ -1,7 +1,7 @@
-﻿using MobileTemplate.Core.Pages.Landing;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
+using XamarinBoilerplate.Core.Pages.Landing;
 
-namespace MobileTemplate.Core.Pages.Menu
+namespace XamarinBoilerplate.Core.Pages.Menu
 {
     public class MasterDetailWrapper : MasterDetailPage
     {

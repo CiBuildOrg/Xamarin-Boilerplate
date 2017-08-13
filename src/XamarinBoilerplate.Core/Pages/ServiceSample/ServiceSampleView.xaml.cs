@@ -1,10 +1,10 @@
 ﻿using System;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Services;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.ServiceSample
+namespace XamarinBoilerplate.Core.Pages.ServiceSample
 {
     public partial class ServiceSampleView : ScrollView, IDisposable
     {

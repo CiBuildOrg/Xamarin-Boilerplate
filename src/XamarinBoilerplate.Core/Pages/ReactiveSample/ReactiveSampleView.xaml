@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ScrollView xmlns="http://xamarin.com/schemas/2014/forms"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-            x:Class="MobileTemplate.Core.Pages.ReactiveSample.ReactiveSampleView">
+            x:Class="XamarinBoilerplate.Core.Pages.ReactiveSample.ReactiveSampleView">
     <StackLayout Padding="6">
       <Entry Text="{Binding TextInput.Value}" Placeholder="Enter some Text" />
       <Label Text="{Binding StringLengthLabel.Value}" />

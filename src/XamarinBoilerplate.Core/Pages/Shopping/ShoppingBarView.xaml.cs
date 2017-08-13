@@ -1,9 +1,9 @@
 ﻿using Autofac;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping
+namespace XamarinBoilerplate.Core.Pages.Shopping
 {
     public partial class ShoppingBarView : StackLayout
     {

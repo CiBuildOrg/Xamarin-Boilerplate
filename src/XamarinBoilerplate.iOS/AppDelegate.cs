@@ -4,9 +4,8 @@ using System.Linq;
 using Autofac;
 using Foundation;
 using HockeyApp.iOS;
-using MobileTemplate.Core;
-using MobileTemplate.Core.Themes;
 using UIKit;
+using XamarinBoilerplate.Core;
 
 namespace MobileTemplate.iOS
 {

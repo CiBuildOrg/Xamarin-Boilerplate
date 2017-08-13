@@ -1,10 +1,10 @@
 ﻿using System;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Services;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.AssetSample
+namespace XamarinBoilerplate.Core.Pages.AssetSample
 {
     public partial class AssetSampleView : ScrollView, IDisposable
     {

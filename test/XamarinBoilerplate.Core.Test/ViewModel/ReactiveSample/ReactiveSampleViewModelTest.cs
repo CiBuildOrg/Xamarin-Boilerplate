@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reactive.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MobileTemplate.Core.Pages.ReactiveSample;
+using XamarinBoilerplate.Core.Pages.ReactiveSample;
 using Xunit;
 
 namespace MobileTemplate.Core.Test.ViewModel.ReactiveSample

@@ -1,8 +1,7 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
-using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.Shopping.Grid
+namespace XamarinBoilerplate.Core.Pages.Shopping.Grid
 {
     public partial class ShoppingGridItemView : Xamarin.Forms.Grid, IDisposable
     {

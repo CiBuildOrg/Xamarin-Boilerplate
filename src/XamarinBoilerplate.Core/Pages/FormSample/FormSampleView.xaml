@@ -3,7 +3,7 @@
 <ScrollView xmlns="http://xamarin.com/schemas/2014/forms"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:formSample="clr-namespace:MobileTemplate.Core.Pages.FormSample;assembly=MobileTemplate.Core"
-            x:Class="MobileTemplate.Core.Pages.FormSample.FormSampleView"
+            x:Class="XamarinBoilerplate.Core.Pages.FormSample.FormSampleView"
             BackgroundColor="{Binding PickedColor.Value}">
     <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="6">
         <Grid.ColumnDefinitions>

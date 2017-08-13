@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Services
+namespace XamarinBoilerplate.Core.Services
 {
     public interface INavigationService
     {

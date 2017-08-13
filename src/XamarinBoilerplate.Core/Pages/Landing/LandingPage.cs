@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.Landing
+namespace XamarinBoilerplate.Core.Pages.Landing
 {
     public class LandingPage : ContentPage, IDisposable
     {

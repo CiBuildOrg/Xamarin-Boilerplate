@@ -1,7 +1,6 @@
-﻿using MobileTemplate.Core.Services;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 
-namespace MobileTemplate.Core.Pages.Shopping.List
+namespace XamarinBoilerplate.Core.Pages.Shopping.List
 {
     public partial class ShoppingListView : StackLayout
     {

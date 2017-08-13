@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MobileTemplate.Core.Pages.RendererSample
+namespace XamarinBoilerplate.Core.Pages.RendererSample
 {
     public class RendererSampleViewModel : IDisposable
     {

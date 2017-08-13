@@ -1,11 +1,11 @@
 ﻿using System;
 using Autofac;
-using MobileTemplate.Core.Extensions;
-using MobileTemplate.Core.Services;
-using MobileTemplate.Core.Services.Shopping;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
+using XamarinBoilerplate.Core.Services;
+using XamarinBoilerplate.Core.Services.Shopping;
 
-namespace MobileTemplate.Core.Pages.Shopping.Grid
+namespace XamarinBoilerplate.Core.Pages.Shopping.Grid
 {
     public partial class ShoppingGridView : StackLayout, IDisposable
     {

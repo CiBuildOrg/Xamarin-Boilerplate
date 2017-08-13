@@ -1,10 +1,10 @@
 ﻿using System;
-using MobileTemplate.Core.Model.Shopping;
-using MobileTemplate.Core.Pages.Shopping.Detail;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Model.Shopping;
+using XamarinBoilerplate.Core.Pages.Shopping.Detail;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.Shopping
+namespace XamarinBoilerplate.Core.Pages.Shopping
 {
     public class ShoppingItemViewModel : IDisposable
     {

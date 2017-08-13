@@ -1,8 +1,8 @@
 ﻿using System;
-using MobileTemplate.Core.Extensions;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Extensions;
 
-namespace MobileTemplate.Core.Pages.RendererSample
+namespace XamarinBoilerplate.Core.Pages.RendererSample
 {
     public partial class RendererSampleView : ScrollView, IDisposable
     {

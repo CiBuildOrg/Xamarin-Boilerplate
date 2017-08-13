@@ -1,8 +1,8 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
-using MobileTemplate.Core.Services;
 using MobileTemplate.Core.Test.Mocks;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Services;
 using Xunit;
 
 namespace MobileTemplate.Core.Test.Service

@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Reactive.Linq;
-using MobileTemplate.Core.Services;
 using Reactive.Bindings;
+using XamarinBoilerplate.Core.Services;
 
-namespace MobileTemplate.Core.Pages.ServiceSample
+namespace XamarinBoilerplate.Core.Pages.ServiceSample
 {
     public class ServiceSampleViewModel : IDisposable
     {

@@ -1,5 +1,5 @@
-using MobileTemplate.Core.Services;
 using Xamarin.Forms;
+using XamarinBoilerplate.Core.Services;
 
 namespace MobileTemplate.Droid.Service
 {
