@@ -22,7 +22,7 @@
 	<key>MinimumOSVersion</key>
 	<string>7.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>MobileTemplate</string>
+	<string>XamarinBoilerplate</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.nowintelligence.template.test</string>
 	<key>CFBundleVersion</key>

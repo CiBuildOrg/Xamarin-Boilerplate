@@ -15,7 +15,7 @@ namespace XamarinBoilerplate.Core.Pages.Menu
 
             var menuItemService = IoC.Container.Resolve<IMenuItemService>();
             var navigationService = IoC.Container.Resolve<INavigationService>();
-            BindingContext = new MainMenuViewModel("Main Menu", "\u00A9 2017 Now Business Intelligence, Inc.", menuItemService, navigationService);
+            BindingContext = new MainMenuViewModel("Main Menu", "\u00A9 2017 XamarinBoilerplate, Inc.", menuItemService, navigationService);
         }
 
         public void Dispose()

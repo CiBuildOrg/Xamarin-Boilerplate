@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MobileTemplate")]
+[assembly: AssemblyTitle("XamarinBoilerplate")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Now Business Intelligence, Inc.")]
-[assembly: AssemblyProduct("MobileTemplate")]
-[assembly: AssemblyCopyright("Copyright © 2016")]
+[assembly: AssemblyConfiguration("Xamarin Boilerplate")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("XamarinBoilerplate")]
+[assembly: AssemblyCopyright("Copyright © 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
