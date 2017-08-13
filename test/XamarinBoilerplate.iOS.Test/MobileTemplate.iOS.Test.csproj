@@ -158,7 +158,7 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MobileTemplate.Core.Test\MobileTemplate.Core.Test.csproj">
+    <ProjectReference Include="..\XamarinBoilerplate.Core.Test\MobileTemplate.Core.Test.csproj">
       <Project>{eb9fb050-491f-4bcf-81bc-3b7615286eba}</Project>
       <Name>MobileTemplate.Core.Test</Name>
     </ProjectReference>
